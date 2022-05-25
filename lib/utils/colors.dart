@@ -1,7 +1,9 @@
 import 'package:flutter/cupertino.dart';
 
-class Colors {
+class AppColors {
   static final Color backgroundColor =  Color(0xFFfaf9f8);
+
+
 
 }
 
